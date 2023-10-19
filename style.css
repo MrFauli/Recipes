@@ -1,0 +1,19 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: rgb(45, 44, 46);
+    color: aliceblue;
+    text-align: center;
+}
+.link{
+    font-weight: bold;
+    text-align: center;
+}
+.links{
+    margin-left: 300px auto;
+}
+.headline{
+    text-align: center;
+}
+.recept{
+
+}
